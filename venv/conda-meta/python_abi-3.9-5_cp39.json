@@ -1,0 +1,31 @@
+{
+  "build": "5_cp39",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "python 3.9.* *_cpython"
+  ],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\ABHI-JEET\\anaconda3\\pkgs\\python_abi-3.9-5_cp39",
+  "files": [],
+  "fn": "python_abi-3.9-5_cp39.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\ABHI-JEET\\anaconda3\\pkgs\\python_abi-3.9-5_cp39",
+    "type": 1
+  },
+  "md5": "86ba1bbcf9b259d1592201f3c345c810",
+  "name": "python_abi",
+  "package_tarball_full_path": "C:\\Users\\ABHI-JEET\\anaconda3\\pkgs\\python_abi-3.9-5_cp39.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ee9471759ba567d5a4922d4fae95f58a0070db7616cba72e3bfb22cd5c50e37a",
+  "size": 6706,
+  "subdir": "win-64",
+  "timestamp": 1723823197000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.9-5_cp39.conda",
+  "version": "3.9"
+}
