@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>AI-Powered RAG API Service</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: auto; padding: 20px; }
-    h1, h2, h3 { color: #333; }
-    code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
-    pre { background: #f4f4f4; padding: 12px; border-radius: 4px; overflow-x: auto; }
-    ul { margin-left: 20px; }
-    li { margin-bottom: 6px; }
-  </style>
-</head>
-<body>
+
 
 <h1>AI-Powered RAG API Service</h1>
 
